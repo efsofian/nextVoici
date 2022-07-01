@@ -30,7 +30,8 @@
     "evergreen-ui": "^5.1.2",
     "gray-matter": "^4.0.2",
     "lodash.orderby": "^4.6.0",
-    "mongodb": "^3.6.3",
+    "mongodb": "^3.7.3",
+    "mongoose": "^6.4.1",
     "morgan": "^1.10.0",
     "nanoid": "^3.1.18",
     "next": "10.0.3",
@@ -42,7 +43,7 @@
     "react-editor-js": "^1.7.0",
     "reflect-metadata": "^0.1.13",
     "sharp": "^0.30.7",
-    "typeorm": "^0.2.29"
+    "typeorm": "^0.2.45"
   },
   "devDependencies": {
     "@types/mongodb": "^3.5.34",
